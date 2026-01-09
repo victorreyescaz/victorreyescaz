@@ -6,21 +6,6 @@
 
 ---
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=victorreyescaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=victorreyescaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
----
-
 <img 
   align="right"
   height="200"
@@ -86,22 +71,6 @@
     />
   </a>
 </div>
-
----
-
-<br clear="both" />
-
-<img 
-  src="https://raw.githubusercontent.com/victorreyescaz/victorreyescaz/output/snake.svg"
-  alt="Snake animation"
-/>
-
----
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"
-  width="100%"
-/>
 
 ---
 
