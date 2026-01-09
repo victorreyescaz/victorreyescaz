@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left" style="font-weight: bold;">Desarrollador Full Stack especializado en Blockchain y Web3</p>
+<p align="left" style="font-weight: bold">Desarrollador Full Stack especializado en Blockchain y Web3</p>
 
 ###
 
