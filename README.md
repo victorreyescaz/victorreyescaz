@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hola, mi nombre es Víctor Reyes</h2>
 
 <p align="left">
-  <strong>Desarrollador Full Stack especializado en Blockchain y Web3</strong>
+  <strong>Blockchain developer / Full Stack Web3</strong>
 </p>
 
 ---
@@ -74,28 +74,42 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy un desarrollador **Full Stack especializado en Blockchain y Web3**, con un fuerte enfoque en el diseño y desarrollo de **aplicaciones descentralizadas (dApps)** y sistemas **on-chain**.
+Soy **desarrollador Full Stack especializado en Blockchain y Web3**, con varios años de experiencia como usuario activo del ecosistema cripto y DeFi, lo que me ha permitido entender cómo funcionan realmente los protocolos, sus incentivos y sus dinámicas.
 
-Mi recorrido en este sector comenzó en **2020**, cuando empecé a formarme en inversión en criptoactivos. Esta experiencia me permitió comprender en profundidad el funcionamiento de los mercados, los protocolos y la lógica económica del ecosistema.
+Mi relación con la blockchain comenzó en **2020**, a través del mundo de los criptoactivos y la inversión. Ese recorrido me permitió entender no solo la tecnología, sino también cómo funcionan los mercados, los protocolos, los incentivos y el comportamiento real de los usuarios. En **2023** decidí dar el salto al desarrollo para pasar de observar el ecosistema a construir dentro de él.
 
-En **2023** decidí dar el salto al desarrollo de software para construir activamente dentro de Web3. Desde entonces, me he formado como desarrollador Full Stack y me he especializado en **Solidity, smart contracts y desarrollo Web3**, utilizando herramientas y frameworks modernos.
+Desde entonces, me he formado como desarrollador Full Stack, aprendiendo a crear aplicaciones desde cero (frontend, backend y capa on-chain) y especializándome en **Solidity, smart contracts y desarrollo de dApps**.
 
-Actualmente, enfoco mi tiempo en:
+### 🧠 Cómo pienso como desarrollador
 
-- 🧠 Profundizar en arquitecturas descentralizadas y buenas prácticas  
-- 🛠️ Diseñar y desarrollar dApps completas  
-- 🔍 Analizar el comportamiento de protocolos y su lógica económica  
-- 📂 Construir un portfolio sólido con proyectos reales  
+Diseño contratos y sistemas on-chain teniendo en cuenta:
 
-Mi experiencia previa en criptoactivos me permite abordar la blockchain no solo desde el punto de vista técnico, sino también **funcional, económico y estratégico**.
+- Lógica económica del protocolo
 
-Creo firmemente que la blockchain va mucho más allá de los criptoactivos y tiene el potencial de transformar industrias como las finanzas, la identidad digital, la logística, la gobernanza y la propiedad de datos.
+- Diseño de incentivos
 
----
+- Seguridad y escalabilidad
 
-### 🚀 Enfoque profesional
+- Experiencia real de usuario
 
-Me especializo en el desarrollo de soluciones **Web3** con una visión integral: **tecnología, producto y economía on-chain**.  
-Mi objetivo es construir aplicaciones descentralizadas **robustas, seguras y alineadas con las necesidades reales del ecosistema**.
+- Optimización de gas
+
+Mi background como inversor y usuario activo de Web3 influye directamente en cómo construyo productos: pienso en utilidad real, no solo en código.
+
+Actualmente, mi enfoque es:
+
+- Construir dApps end-to-end: smart contracts en Solidity, integración con wallets, frontends React, indexación de datos on-chain y despliegue en testnet/mainnet
+
+- Arquitecturas descentralizadas
+
+- Sistemas DeFi y lógica on-chain
+
+- Portfolio con proyectos reales
+
+
+### 🚀 Mentalidad
+
+Me gusta entender el problema, diseñar la solución, implementarla, iterar y mejorar. Creo que la blockchain es mucho más que cripto: es una nueva forma de construir productos digitales con propiedad, transparencia y descentralización.
+
