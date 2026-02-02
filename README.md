@@ -84,7 +84,7 @@ Mi relación con la blockchain comenzó en **2020**, a través del mundo de los 
 
 Desde entonces, me he formado como desarrollador Full Stack, aprendiendo a crear aplicaciones desde cero (frontend, backend y capa on-chain) y especializándome en **Solidity, smart contracts y desarrollo de dApps**.
 
-### 🧠 Cómo pienso como desarrollador
+### Cómo pienso como desarrollador
 
 Diseño contratos y sistemas on-chain teniendo en cuenta:
 
@@ -111,7 +111,7 @@ Actualmente, mi enfoque es:
 - Portfolio con proyectos reales
 
 
-### 🚀 Mentalidad
+### Mentalidad
 
 Me gusta entender el problema, diseñar la solución, implementarla, iterar y mejorar. Creo que la blockchain es mucho más que cripto: es una nueva forma de construir productos digitales con propiedad, transparencia y descentralización.
 
