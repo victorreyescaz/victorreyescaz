@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hola, mi nombre es Víctor Reyes</h2>
 
 <p align="left">
-  <strong>Blockchain developer / Full Stack Web3</strong>
+  <strong>Blockchain developer</strong>
 </p>
 
 ---
@@ -76,42 +76,118 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+# 👨‍💻 Sobre mí
 
-Soy **desarrollador Full Stack especializado en Blockchain y Web3**, con varios años de experiencia como usuario activo del ecosistema cripto y DeFi, lo que me ha permitido entender cómo funcionan realmente los protocolos, sus incentivos y sus dinámicas.
+Soy **Blockchain Backend Developer** especializado en **Solidity, smart contracts, arquitectura on-chain y seguridad**.
 
-Mi relación con la blockchain comenzó en **2020**, a través del mundo de los criptoactivos y la inversión. Ese recorrido me permitió entender no solo la tecnología, sino también cómo funcionan los mercados, los protocolos, los incentivos y el comportamiento real de los usuarios. En **2023** decidí dar el salto al desarrollo para pasar de observar el ecosistema a construir dentro de él.
+Tengo capacidad para construir dApps end-to-end, incluyendo frontend e integración con wallets, pero mi especialización principal está en el **backend blockchain**, diseño de contratos inteligentes, lógica de protocolo, testing, seguridad, optimización de gas e integración con aplicaciones Web3.
 
-Desde entonces, me he formado como desarrollador Full Stack, aprendiendo a crear aplicaciones desde cero (frontend, backend y capa on-chain) y especializándome en **Solidity, smart contracts y desarrollo de dApps**.
+Mi relación con blockchain empezó en **2020**, primero como usuario activo e inversor dentro del ecosistema cripto y DeFi. Esa experiencia me permitió entender cómo funcionan realmente los protocolos, sus incentivos económicos, sus riesgos, la liquidez, el comportamiento de los usuarios y las dinámicas de mercado.
 
-### Cómo pienso como desarrollador
+En **2023** decidí dar el salto al desarrollo para pasar de observar el ecosistema a construir dentro de él. Desde entonces me he formado como desarrollador Full Stack, pero he orientado mi perfil hacia el desarrollo **backend Web3**, especialmente en **Solidity, smart contracts, DeFi y seguridad**.
 
-Diseño contratos y sistemas on-chain teniendo en cuenta:
+---
 
-- Lógica económica del protocolo
+## Cómo pienso como Blockchain Developer
 
-- Diseño de incentivos
+Cuando diseño contratos y sistemas on-chain me centro en construir lógica segura, clara y útil para usuarios reales.
 
-- Seguridad y escalabilidad
+Trabajo teniendo en cuenta:
 
-- Experiencia real de usuario
+- **Lógica económica del protocolo**
+- **Diseño de incentivos**
+- **Seguridad de smart contracts**
+- **Arquitectura backend/on-chain**
+- **Testing y validación de escenarios**
+- **Optimización de gas**
+- **Experiencia real del usuario**
+- **Integración con wallets, frontend y servicios off-chain**
 
-- Optimización de gas
+Mi background como usuario activo de Web3 y DeFi influye directamente en cómo construyo productos, entiendo la importancia de que un protocolo no solo funcione técnicamente, sino que tenga sentido económico, sea seguro y sea usable.
 
-Mi background como inversor y usuario activo de Web3 influye directamente en cómo construyo productos: pienso en utilidad real, no solo en código.
+---
 
-Actualmente, mi enfoque es:
+## Backend y seguridad
 
-- Construir dApps end-to-end: smart contracts en Solidity, integración con wallets, frontends React, indexación de datos on-chain y despliegue en testnet/mainnet
+No me limito a implementar la lógica esperada del protocolo. También intento analizar cómo podría romperse, abusarse o manipularse desde una perspectiva adversarial.
 
-- Arquitecturas descentralizadas
+Antes de desarrollar o revisar un sistema, me gusta pensar en su **threat model**: qué activos protege el protocolo, qué usuarios o actores pueden interactuar con él, qué permisos existen, qué supuestos de confianza hay, qué superficies de ataque aparecen y qué escenarios podrían poner en riesgo los fondos, el estado del contrato o la lógica económica.
 
-- Sistemas DeFi y lógica on-chain
+Me interesa especialmente:
 
-- Portfolio con proyectos reales
+- Diseño e implementación de **smart contracts en Solidity**
+- Arquitectura backend/on-chain para protocolos Web3
+- Desarrollo de sistemas **DeFi** y lógica económica on-chain
+- Testing avanzado con **Foundry**
+- Análisis estático y revisión de contratos con herramientas como **Slither**
+- Threat modeling: análisis de activos, actores, permisos, trust assumptions y superficies de ataque
+- Identificación de **attack vectors**
+- Análisis de **vulnerabilidades comunes en smart contracts**
+- Revisión de edge cases y escenarios límite
+- Control de accesos, roles y permisos críticos
+- Protección frente a errores de lógica, manipulación de precios, problemas con oráculos y estados inconsistentes
+- Revisión de riesgos como **reentrancy**, **front-running**, **DoS**, **precision loss**, **integer issues**, **bad accounting** y errores de integración
+- Optimización de gas sin comprometer seguridad ni claridad del código
+- Integración backend con frontend Web3 mediante **ethers.js**, **viem**, **wagmi** y wallets
 
+Me gusta pensar los contratos desde una mentalidad de seguridad: qué asume el sistema, qué puede salir mal, qué incentivos tiene un usuario malicioso y qué partes del protocolo podrían convertirse en puntos débiles.
 
-### Mentalidad
+No me defino como frontend developer, aunque puedo trabajar en la parte frontend cuando el proyecto lo requiere. Mi valor principal está en la capa **backend/on-chain**, en la arquitectura de smart contracts y en construir sistemas sólidos, testeados y diseñados con seguridad desde el inicio.
 
-Me gusta entender el problema, diseñar la solución, implementarla, iterar y mejorar. Creo que la blockchain es mucho más que cripto: es una nueva forma de construir productos digitales con propiedad, transparencia y descentralización.
+---
+
+## 🛠️ Tecnologías principales
+
+### Blockchain / Smart Contracts
+
+- Solidity
+- Foundry
+- Hardhat
+- OpenZeppelin
+- Slither
+- Ethers.js
+- viem
+- wagmi
+- Reown AppKit
+- Ethereum / EVM
+- Arbitrum, Base, Polygon, BSC, Mainnet
+
+### Backend / dApp Development
+
+- Node.js
+- JavaScript
+- API integration
+- Wallet integration
+- On-chain data interaction
+- Testnet/mainnet deployment flows
+
+### Frontend
+
+- React
+- Vite
+- Chakra UI
+  
+---
+
+## Actualmente busco
+
+Estoy enfocado en crecer profesionalmente como:
+
+- **Blockchain Developer**
+- **Solidity Developer**
+- **Smart Contract Developer**
+- **Blockchain Backend Developer**
+- **Smart Contract Security Engineer**
+
+Busco trabajar en proyectos donde pueda aportar en el diseño, implementación y seguridad de sistemas blockchain reales, especialmente en entornos relacionados con **DeFi, protocolos on-chain, infraestructura Web3 y smart contract security**.
+
+---
+
+## 🧩 Mentalidad
+
+Me gusta entender el problema, diseñar una solución clara, implementarla, testearla, romperla, mejorarla y volver a iterar.
+
+Creo que blockchain es mucho más que cripto, es una nueva forma de construir productos digitales con propiedad, transparencia, descentralización y reglas programables.
+
+Mi objetivo es construir sistemas on-chain que sean útiles, seguros y técnicamente sólidos.
 
